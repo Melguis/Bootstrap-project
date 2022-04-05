@@ -1,0 +1,41 @@
+.carouselImg {
+    object-fit: cover;
+    object-position: 0 75%;
+    height: 400px;
+}
+
+.carouselImg2 {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fontTitle {
+    font-family: 'Pacifico', cursive;
+}
+
+.titleColor {
+    color: darkred!important;
+}
+
+.cardWidth {
+    max-width: 18rem;
+}
+
+.cardImg {
+    object-fit: cover;
+    height: 200px;
+}
+
+.buttonColor {
+    color: white;
+    background-color: darkred;
+}
+
+.buttonColor:hover {
+    color: white;
+    background-color: rgb(189, 0, 0);
+}
+
+.borderColor {
+    border-color: darkred;
+}
